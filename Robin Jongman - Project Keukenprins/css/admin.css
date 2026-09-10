@@ -1,0 +1,102 @@
+/* Achtergrond van #body (index.php) instellen */
+#body {
+    background-image: url('../images/Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* Login-card opmaak */
+.login-card {
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'AutoFont', sans-serif;
+}
+
+/* Aangepast lettertype voor de 'exclusieve' index-pagina */
+@font-face {
+    font-family: 'AutoFont';
+    src: url('../fonts/Auto.ttf') format('truetype');
+}
+
+/* Algemeen pagina font */
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    background-color: #fff;
+}
+
+/* Groot font voor 'titel-tekst' */
+.admin-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Klein font voor 'sub-tekst' */
+.admin-sub {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+/* Blogoverzicht in de 'grid-weergave' */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+/* Eigenschappen voor de blog-kaarten */
+.blog-card {
+    border: 1px solid #000;
+    padding: 30px 20px;
+    text-align: center;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Eigenschappen om ruimte tussen de buttons te creëren */
+.admin-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+/* Eigenschappen voor knoppen */
+.admin-buttons a {
+    padding: 10px 20px;
+    border: 1px solid #999;
+    background-color: #eee;
+    color: black;
+    text-decoration: none; /* Geen onderstreping */
+    transition: background-color 0.2s; /* Animatie bij hover */
+}
+
+/* 'Hover-effect' voor knoppen (voor interactieve ervaring) */
+.admin-buttons a:hover {
+    background-color: #ddd;
+}
+
+/* Egienschappen voor de tekst */
+.admin-footer {
+    margin-top: 50px;
+    text-align: right;
+    font-size: 18px;
+}
+
+/* Extra opmaak voor tekst */
+.admin-footer strong {
+    font-size: 24px;
+}
+
+/* Stijl voor knoppen in tabel */
+td a.btn {
+    display: inline-block;
+    margin-bottom: 0 !important;
+    vertical-align: middle;
+}

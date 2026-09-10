@@ -1,0 +1,17 @@
+/* Achtergrond van de pagina instellen */
+body {
+    background-image: url('../images/Racing.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Zorgt dat de achtergrond niet meescrolt met de inhoud */
+    background-position: center;
+}
+
+/* H1 Stijl voor index.php */
+h1 {
+  color: #ffffff;
+  font-family: 'Arial', sans-serif; /* Lettertype */
+  font-size: 48px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #999999; /* Schaduw voor de tekst */
+}
