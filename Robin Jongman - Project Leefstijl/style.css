@@ -1,0 +1,45 @@
+h1 {color:rgb(16, 117, 29);}
+
+h2 {color: rgb(22, 94, 0);}
+
+p {color: rgb(0, 204, 0);}
+
+@font-face {
+    font-family: "gezond1";
+    src: url(gezond1.ttf);
+}
+
+p {
+    font-family: "gezond1";
+}
+
+h1 {
+    font-family: "gezond1";
+}
+
+h2 {
+    font-family: "gezond1";
+}
+
+.navbar {background-color: rgb(0, 204, 0);}
+
+.navbar {
+    font-family: "gezond1";
+}
+
+.navbar {
+    font-size: 30px;
+}
+
+.navbar a {
+    color: white;
+}
+
+#up {
+    background-color: rgb(0, 204, 0);
+}
+
+.groente {
+    margin-top: 0px;
+    margin-left: 0px;
+}
