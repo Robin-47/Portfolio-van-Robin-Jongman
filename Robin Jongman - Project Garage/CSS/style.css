@@ -1,0 +1,109 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+#kleurNav,
+#titel {
+    background-color: #323232;
+}
+
+h1 {
+    color: #fff;
+}
+
+#active {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.navbar .nav-link {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.4s;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 40px;
+}
+
+.nav-link:hover {
+    color: #646464;
+    text-decoration-line: underline;
+}
+
+.factuur-flex {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+
+#blokje {
+    min-width: 320px;
+    max-width: 350px;
+}
+
+#tableBlok {
+    min-width: 500px;
+    max-width: 900px;
+    margin-left: 48px;
+}
+
+#namen {
+    margin-bottom: 28px;
+}
+
+.factuur-titel {
+    margin-left: 10vw;
+}
+
+#naam,
+#onderkant,
+#status {
+    margin: 0;
+    padding: 0;
+    background: none;
+    color: inherit;
+    border-radius: 0;
+    width: auto;
+}
+
+#factuurTabel {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+@media (max-width: 991px) {
+    .factuur-flex {
+        flex-direction: column;
+        gap: 24px;
+        align-items: stretch;
+    }
+    #blokje, #tableBlok {
+        min-width: 0;
+        max-width: 100%;
+        margin-left: 0;
+    }
+    .factuur-titel {
+        margin-left: 0;
+    }
+}
+
+.center-form-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center-form-box {
+    width: 100%;
+    max-width: 400px;
+}
