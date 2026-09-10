@@ -1,0 +1,20 @@
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.exe.config
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.exe
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.pdb
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.Form1.resources
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.Properties.Resources.resources
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.exe
+C:\Users\robin\source\repos\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.pdb
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.exe.config
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.exe
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\bin\Debug\Tamagotchi_RobinJongman.pdb
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.Form1.resources
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.Properties.Resources.resources
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.exe
+C:\Users\robin\source\repos\Project (Tamagotchi)\Tamagotchi_RobinJongman\Tamagotchi_RobinJongman\obj\Debug\Tamagotchi_RobinJongman.pdb
